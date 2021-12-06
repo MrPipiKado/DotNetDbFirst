@@ -1,0 +1,10 @@
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\bin\Debug\EntityFramework.dll
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\bin\Debug\EntityFramework.xml
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.AssemblyReference.cache
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Markiian_Andreiko\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
